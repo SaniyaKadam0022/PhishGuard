@@ -23,12 +23,11 @@ The application aims to improve awareness of phishing links by explaining the wa
 
 🛠️ Technologies Used
 
-Technology| Purpose
-Python| Core programming language
-Tkinter| Graphical user interface
-urllib.parse| URL parsing
-ipaddress| IP address validation
-re| Imported regular-expression module
+Python:-Core programming language
+Tkinter:- Graphical user interface
+urllib.parse:- URL parsing
+ipaddress:- IP address validation
+re:- Imported regular-expression module
 
 ⚙️ How It Works
 
@@ -41,10 +40,10 @@ re| Imported regular-expression module
 
 📊 Risk Classification
 
-Score| Category
-0–17| LOW RISK
-18–39| SUSPICIOUS
-40–100| HIGH RISK
+Score      Category
+0–17       LOW RISK
+18–39      SUSPICIOUS
+40–100     HIGH RISK
 
 💻 Installation and Usage
 
@@ -67,10 +66,9 @@ No third-party Python packages are required.
 📁 Project Structure
 
 PhishGuard/
-│
-├── main.py
-├── README.md
-└── PhishGuard_Project_Report.pdf
+1. main.py
+2. README.md
+3. PhishGuard_Project_Report.pdf
 
 ⚠️ Limitations
 
